@@ -16,14 +16,15 @@ This repository contains three datasets used in the analysis presented in the pa
    1.3 location (city, country)  
    1.4 distance from Hunga Tonga-Hunga Ha'apai island (km)  
    1.5 barometer latitude  
-   1.6 barometer longitude
-   1.7 pressure amplitude (Pa)
-   1.8 source name
-   1.9 source URL
+   1.6 barometer longitude  
+   1.7 time zone
+   1.8 pressure amplitude (Pa)  
+   1.9 source name  
+   1.10 source URL  
  2. Tsar Bomba data  
   2.1 location (city, country)  
-     2.2 distance from ground zero (km)  
-     2.3 source  
+  2.2 distance from ground zero (km)  
+  2.3 source  
  3. Mount St. Helens data  
   3.1 location (city, country)  
   3.2 distance from ground zero (km)  
