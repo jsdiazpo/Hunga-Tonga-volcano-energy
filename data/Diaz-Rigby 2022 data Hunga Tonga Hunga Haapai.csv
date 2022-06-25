@@ -1,0 +1,125 @@
+Date (UTC),UTC time (h),Location,Distance (km),Lat,Lon,Time Zone,A (Pa),Source,Source URL
+2022-01-15 4:32,4.53,"Tongatapu, Tonga",76,-21.2,-175.2,,2088,YouTube,https://youtu.be/vn1Gfqd6SK4
+2022-01-15 4:50,4.83,"Ono-i-Lau, Fiji",347,-20.6,-178.7,Pacific/Fiji,1030,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:00,5,"Lakeba, Fiji",450,-18.1,-178.9,Pacific/Fiji,1000,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:05,5.08,"Vanua Balavu, Fiji",524,-17.2,-179,Pacific/Fiji,750,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:10,5.17,"Levuka, Fiji",687,-17.7,178.8,Pacific/Fiji,670,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:10,5.17,"Udu, Fiji",691,-16.1,-180,Pacific/Fiji,670,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:10,5.17,"Lodoni, Fiji",708,-17.7,178.6,Pacific/Fiji,670,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:10,5.17,"Lomaivuna, Fiji",710,-17.9,178.4,Pacific/Fiji,710,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:05,5.08,"Wainikoro, Fiji",711,-16.3,179.6,Pacific/Fiji,710,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:05,5.08,"Labasa, Fiji",716,-16.4,179.4,Pacific/Fiji,630,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:05,5.08,"Navua, Fiji",723,-18.2,178.2,Pacific/Fiji,690,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:10,5.17,"Seaqaqa, Fiji",733,-16.6,179,Pacific/Fiji,880,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:11,5.18,"Navosa, Fiji",767,-17.9,177.8,Pacific/Fiji,,Twitter,https://twitter.com/ALomaxNet/status/1483484290319097868
+2022-01-15 5:15,5.25,"Korolevu, Fiji",743,-18.4,178.1,Pacific/Fiji,660,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:15,5.25,"Nadarivatu, Fiji",770,-17.6,178,Pacific/Fiji,660,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:15,5.25,"Yaqara, Fiji",796,-17.8,177.4,Pacific/Fiji,630,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:20,5.33,"Sigatoka, Fiji",791,-18.1,177.5,Pacific/Fiji,660,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:20,5.33,"Ba, Fiji",800,-17.5,177.7,Pacific/Fiji,660,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:20,5.33,"Nadi, Fiji",814,-17.8,177.4,Pacific/Fiji,900,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:20,5.33,"Momi, Fiji",823,-17.9,177.3,Pacific/Fiji,680,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 5:15,5.25,"Pago Pago, American Samoa",852,-14.3,-170.7,Pacific/Pago_Pago,407,Weather Underground,https://www.wunderground.com/dashboard/pws/IAVARUA3/graph/2022-01-14/2022-01-14/daily
+2022-01-15 5:25,5.42,"Viwa, Fiji",892,-17.1,176.9,Pacific/Fiji,600,Fiji Meteorological Service,https://www.met.gov.fj/index.php?page=datarequest
+2022-01-15 6:00,6,"Avarua, Cook Islands",1622,-21.2,-159.8,Pacific/Rarotonga,339,Weather Underground,https://www.wunderground.com/dashboard/pws/IAVARUA3/graph/2022-01-14/2022-01-14/daily
+2022-01-15 6:11,6.18,"New Caledonia, France",1935,-21.3,165.5,Pacific/Noumea,621,Twitter,https://twitter.com/fonera_cork/status/1482647770414600201
+2022-01-15 6:08,6.13,"Paita, New Caledonia",1901,-22.1,166.4,Pacific/Noumea,,Twitter,https://twitter.com/ALomaxNet/status/1483484290319097868
+2022-01-15 6:09,6.15,"Norfolk Island, Australia",1926,-29,168,Pacific/Norfolk,690,Twitter,https://twitter.com/BOM_WA/status/1482563705695084550
+2022-01-15 6:11,6.18,"Cape Reinga, New Zealand",1936,-34.4,172.7,Pacific/Auckland,,Twitter,https://twitter.com/MetService/status/1482247777891799042
+2022-01-15 6:10,6.16,"Howick, New Zealand",2044,-36.9,174.9,Pacific/Auckland,569,Twitter,https://twitter.com/dbanksnz/status/1482249871566331908
+2022-01-15 6:17,6.28,"Waitakere Ranges, New Zealand",2061,-36.9,174.5,Pacific/Auckland,555,Twitter,https://twitter.com/Waitakeres/status/1482258591835127815
+2022-01-15 6:17,6.28,"Tauranga, New Zealand",2070,-37.7,176.2,Pacific/Auckland,,Twitter,https://twitter.com/MetService/status/1482247777891799042
+2022-01-15 6:19,6.32,"Gisborne, New Zealand",2109,-38.7,178,Pacific/Auckland,521,Twitter,https://twitter.com/MetService/status/1482247777891799042
+2022-01-15 6:23,6.38,"Taupo, New Zealand",2180,-38.8,176.1,Pacific/Auckland,,Twitter,https://twitter.com/MetService/status/1482247777891799042
+2022-01-15 6:35,6.58,"Otaki, New Zealand",2417,-40.8,175.1,Pacific/Auckland,510,Twitter,https://twitter.com/tehoro/status/1482277585476534273
+2022-01-15 6:39,6.65,"Wellington, New Zealand",2483,-41.3,174.8,Pacific/Auckland,,Twitter,https://twitter.com/MetService/status/1482247777891799042
+2022-01-15 6:59,6.98,"Papeete, French Polynesia",2731,-17.5,-149.6,Pacific/Tahiti,380,Weather Underground,https://www.wunderground.com/dashboard/pws/ITAHIT14/graph/2022-01-14/2022-01-14/daily
+2022-01-15 7:01,7.02,"Honiara, Solomon Islands",2916,-9.4,160,Pacific/Guadalcanal,,Twitter,https://twitter.com/ALomaxNet/status/1483484290319097868
+2022-01-15 7:08,7.13,"Oamaru, New Zealand",3000,-45.1,171,Pacific/Auckland,410,Weather Underground,https://www.wunderground.com/dashboard/pws/IOAMAR18/graph/2022-01-15/2022-01-15/daily
+2022-01-15 7:11,7.18,"Dunedin, New Zealand",3095,-45.9,170.5,Pacific/Auckland,322,Weather Underground,https://www.wunderground.com/dashboard/pws/IDUNED54/graph/2022-01-15/2022-01-15/daily
+2022-01-15 7:20,7.33,"Brisbane, Australia",3292,-27.5,153,Australia/Brisbane,,Twitter,https://twitter.com/BOM_WA/status/1482563705695084550
+2022-01-15 7:34,7.57,"Arawa, Papua New Guinea",3511,-6.2,155.6,Pacific/Bougainville,379,Weather Underground,https://www.wunderground.com/dashboard/pws/IARAWA4/graph/2022-01-15/2022-01-15/daily
+2022-01-15 7:34,7.48,"Sydney, Australia",3601,-33.9,151.2,Australia/Sydney,296,Twitter,https://twitter.com/Ben_Domensino/status/1482282515616645123
+2022-01-15 7:54,7.9,"Towers Hill, Australia",3993,-20.1,146.2,Australia/Brisbane,,Twitter,https://twitter.com/ALomaxNet/status/1483484290319097868
+2022-01-15 8:13,8.22,"Johnston Island, US",4183,16.7,-169.5,Pacific/Honolulu,234,Twitter,https://twitter.com/ALomaxNet/status/1483484290319097868
+2022-01-15 8:21,8.35,"Broken Hill, Australia",4458,-32,141.5,Australia/Broken_Hill,,Twitter,https://twitter.com/BOM_WA/status/1482563705695084550
+2022-01-15 8:47,8.78,"Kahului Harbor, HI, US",5037,20.9,-156.5,Pacific/Honolulu,213,Twitter,https://twitter.com/Climatologist49/status/1482809308718911488
+2022-01-15 8:54,8.9,"Coober Pedy, Australia",5088,-29,134.8,Australia/Adelaide,,Twitter,https://twitter.com/BOM_WA/status/1482563705695084550
+2022-01-15 8:56,8.93,"Nhulunbuy, Australia",5172,-12.2,136.8,Australia/Darwin,328,Weather Underground,https://www.wunderground.com/dashboard/pws/INHULU1/graph/2022-01-15/2022-01-15/daily
+2022-01-15 9:29,9.48,"Palmerston, Australia",5765,-12.5,131,Australia/Darwin,271,Weather Underground,https://www.wunderground.com/dashboard/pws/IDARWI141/graph/2022-01-15/2022-01-15/daily
+2022-01-15 9:29,9.48,"Guam, US",5760,13.5,144.8,Pacific/Guam,230,Weather Underground,https://www.wunderground.com/dashboard/pws/ISANTA718/graph/2022-01-15/2022-01-15/daily
+2022-01-15 9:39,9.65,"Kununurra, Australia",5904,-15.8,128.7,Australia/Perth,274,Weather Underground,https://www.wunderground.com/dashboard/pws/IKUNUN8/graph/2022-01-15/2022-01-15/daily
+2022-01-15 10:00,10,"Kalgoorlie, Australia",6356,-30.7,121.5,Australia/Perth,,Twitter,https://twitter.com/BOM_WA/status/1482563705695084550
+2022-01-15 10:12,10.2,"Marymia, Australia",6596,-25,120,Australia/Perth,530,Weather Underground,https://www.wunderground.com/dashboard/pws/IKUMAR5/graph/2022-01-15/2022-01-15/daily
+2022-01-15 10:26,10.43,"Perth, Australia",6869,-32,115.9,Australia/Perth,330,Twitter,https://twitter.com/BOM_WA/status/1482563705695084550
+2022-01-15 11:28,11.47,"Tokyo, Japan",7823,35.7,139.8,Asia/Tokyo,236,Twitter,https://twitter.com/TomonoTokyo/status/1482336475157245954
+2022-01-15 11:39,11.65,"Kyoto, Japan",8035,35,135.8,Asia/Tokyo,241,Twitter,https://twitter.com/y_mizuno/status/1483438434522116098
+2022-01-15 12:05,12.08,"San Jose, CA, US",8522,37.3,-121.9,America/Los_Angeles,,Twitter,https://twitter.com/mycroft16/status/1482657900220743680
+2022-01-15 12:10,12.17,"Eureka, California, US",8620,40.8,-124.2,America/Los_Angeles,245,Twitter,https://twitter.com/NWSEureka/status/1482525061500190724
+2022-01-15 12:19,12.32,"Virginia City, NV, US",8809,39.3,-119.6,America/Los_Angeles,296,Twitter,https://twitter.com/jeremycole/status/1482492645674868738
+2022-01-15 12:21,12.35,"Oregon, US",9027,44,-120.7,America/Los_Angeles,271,Twitter,https://twitter.com/guidero/status/1482447785756479491
+2022-01-15 12:21,12.35,"Scottsdale, AZ, US",9009,33.5,-111.9,America/Phoenix,,Twitter,https://twitter.com/KristieKat_AZ/status/1482566594538577920
+2022-01-15 12:35,12.58,"Vancouver, Canada",9307,49.3,-123.1,America/Vancouver,200,Twitter,https://twitter.com/jayakerley/status/1482568333979361280
+2022-01-15 12:43,12.72,"Anchorage, AK, US",9359,61.2,-149.9,America/Anchorage,,Twitter,https://twitter.com/Climatologist49/status/1482389711469494278
+2022-01-15 12:54,12.9,"Sun Peaks, Canada",9599,50.9,-119.9,America/Vancouver,250,Twitter,https://twitter.com/jayakerley/status/1482568333979361280
+2022-01-15 13:00,13,"Great Falls, MT, US",9887,47.5,-111.3,America/Denver,234,Twitter,https://twitter.com/rqhart/status/1482477402085335044
+2022-01-15 13:19,13.32,"Valparaiso, Chile",9988,-33,-71.6,America/Santiago,190,Weather Underground,https://www.wunderground.com/dashboard/pws/IVIADE1/graph/2022-01-15/2022-01-15/daily
+2022-01-15 13:19,13.32,"Edmonton, Canada",10125,53.5,-113.5,America/Edmonton,159,Weather Underground,https://www.wunderground.com/dashboard/pws/IEDMON23/graph/2022-01-15/2022-01-15/daily
+2022-01-15 13:24,13.4,"Houston, TX, US",10218,29.8,-95.4,America/Chicago,,Weather Underground,https://www.wunderground.com/dashboard/pws/KTXHOUST2475/graph/2022-01-15/2022-01-15/daily
+2022-01-15 13:39,13.65,"San Luis, Argentina",10434,-33.3,-66,America/Argentina/San_Luis,169,Weather Underground,https://www.wunderground.com/dashboard/pws/ISANLU2/graph/2022-01-15/2022-01-15/daily
+2022-01-15 13:54,13.9,"Antofagasta, Chile",10532,-23.6,-70.4,America/Santiago,237,Weather Underground,https://www.wunderground.com/dashboard/pws/IANTOFAG10/graph/2022-01-15/2022-01-15/daily
+2022-01-15 13:54,13.9,"Cordoba, Argentina",10693,-31.4,-64.2,America/Argentina/Cordoba,170,Weather Underground,https://www.wunderground.com/dashboard/pws/ICRDOB65/graph/2022-01-15/2022-01-15/daily
+2022-01-15 14:04,14.07,"La Plata, Argentina",10994,-34.9,-58,America/Argentina/Buenos_Aires,,Weather Underground,https://www.wunderground.com/dashboard/pws/ILAPLA62/graph/2022-01-15/2022-01-15/daily
+2022-01-15 14:09,14.15,"Montevideo, Uruguay",11132,-34.9,-56.2,America/Montevideo,180,Weather Underground,https://www.wunderground.com/dashboard/pws/IMONTE346/graph/2022-01-15/2022-01-15/daily
+2022-01-15 14:21,14.35,"Fort Myers, FL, US",11348,26.6,-81.9,America/New_York,234,Twitter,https://twitter.com/NRunner417/status/1482554450036330501
+2022-01-15 14:44,14.73,"Asuncion, Paraguay",11592,-25.3,-57.6,America/Asuncion,237,Weather Underground,https://www.wunderground.com/dashboard/pws/IRECOL1/graph/2022-01-15/2022-01-15/daily
+2022-01-15 14:54,14.9,"Sao Joao do Sul, Brazil",11987,-29.2,-49.8,America/Sao_Paulo,136,Weather Underground,https://www.wunderground.com/dashboard/pws/ISOJOO20/graph/2022-01-15/2022-01-15/daily
+2022-01-15 15:03,15.05,"Kazhakkoottam, India",12184,8.6,76.9,Asia/Kolkata,237,Weather Underground,https://www.wunderground.com/dashboard/pws/IMENAMKU2/graph/2022-01-15/2022-01-15/daily
+2022-01-15 15:25,15.42,"Ottawa, Canada",12355,45.4,-75.7,America/Toronto,135,Weather Underground,https://www.wunderground.com/dashboard/pws/IOTTAW175/graph/2022-01-15/2022-01-15/daily
+2022-01-15 15:26,15.43,"Upton, NY, US",12510,40.9,-72.9,America/New_York,296,Twitter,https://twitter.com/VeronicaVerkest/status/1484949691548712965
+2022-01-15 15:39,15.65,"Guaynabo, Puerto Rico",12663,18.4,-66.1,America/Puerto_Rico,203,Weather Underground,https://www.wunderground.com/dashboard/pws/ISANJU18/graph/2022-01-15/2022-01-15/daily
+2022-01-15 15:45,15.75,"Virgin Islands, US",12781,17.7,-64.8,America/St_Thomas,275,Twitter,https://twitter.com/pet_surft/status/1482507401672761346
+2022-01-15 15:50,15.83,"Mumbai, India",12931,19.1,72.9,Asia/Kolkata,169,Weather Underground,https://www.wunderground.com/dashboard/pws/IDAHAN1/graph/2022-01-15/2022-01-15/daily
+2022-01-15 16:14,16.23,"Wildey, Barbados",13177,13.1,-59.6,America/Barbados,179,Weather Underground,https://www.wunderground.com/dashboard/pws/IBRIDG36/table/2022-01-15/2022-01-15/daily
+2022-01-15 16:29,16.48,"Paramaribo, Surinam",13390,5.8,-55.2,America/Paramaribo,271,Weather Underground,https://www.wunderground.com/dashboard/pws/ICOMME6/graph/2022-01-15/2022-01-15/daily
+2022-01-15 16:39,16.65,"Svalbard, Norway",13498,78.7,20.3,Arctic/Longyearbyen,182,Twitter,https://twitter.com/paul_zieger/status/1482659439656198144
+2022-01-15 16:39,16.65,"Cape Town, South Africa",13783,-33.9,18.4,Africa/Johannesburg,,Weather Underground,https://www.wunderground.com/dashboard/pws/INOORDHO282/graph/2022-01-15/2022-01-15/daily
+2022-01-15 16:39,16.65,"Richards Bay, South Africa",13799,-28.8,32.1,Africa/Johannesburg,169,Weather Underground,https://www.wunderground.com/dashboard/pws/IRICHA5/graph/2022-01-15/2022-01-15/daily
+2022-01-15 16:44,16.73,"Vryheid, South Africa",13957,-27.8,30.8,Africa/Johannesburg,210,Weather Underground,https://www.wunderground.com/dashboard/pws/IABAQU1/graph/2022-01-15/2022-01-15/daily
+2022-01-15 17:09,17.15,"Sao Luis, Brazil",14109,-2.6,-44.2,America/Fortaleza,238,Weather Underground,https://www.wunderground.com/dashboard/pws/ISOLUS13/graph/2022-01-15/2022-01-15/daily
+2022-01-15 17:34,17.57,"Polyarnye Zori, Russia",14440,67.5,32.5,Europe/Moscow,237,Weather Underground,https://www.wunderground.com/dashboard/pws/IGORAZAS4/graph/2022-01-15/2022-01-15/daily
+2022-01-15 17:39,17.65,"Reykjavik, Iceland",14779,64.1,-21.9,Atlantic/Reykjavik,203,Weather Underground,https://www.wunderground.com/dashboard/pws/IREYKJ1/graph/2022-01-15/2022-01-15/daily
+2022-01-15 17:45,17.75,"Hornafjörður, Iceland",14937,64.2,-15.8,Atlantic/Reykjavik,102,Weather Underground,https://www.wunderground.com/dashboard/pws/IHORNA8/graph/2022-01-15/2022-01-15/daily
+2022-01-15 18:14,18.23,"St. Petersburg, Russia",15183,59.9,30.3,Europe/Moscow,129,Weather Underground,https://www.wunderground.com/dashboard/pws/ISAINT2831/graph/2022-01-15/2022-01-15/daily
+2022-01-15 18:19,18.32,"Espoo, Finland",15324,60.2,24.7,Europe/Helsinki,220,Weather Underground,https://www.wunderground.com/dashboard/pws/IESPOO1/graph/2022-01-15/2022-01-15/daily
+2022-01-15 18:34,18.57,"Stockholm, Sweden",15567,59.3,18.1,Europe/Stockholm,199,Weather Underground,https://www.wunderground.com/dashboard/pws/ISTOCK650/graph/2022-01-15/2022-01-15/daily
+2022-01-15 18:39,18.65,"Nairn, Scotland",15836,57.6,-3.9,Europe/London,185,Twitter,https://twitter.com/nairnlochloy/status/1482493521693130754
+2022-01-15 18:51,18.85,"Fife, Scotland",15991,56.3,-3,Europe/London,200,Twitter,https://twitter.com/fifeweather/status/1482458262859620356
+2022-01-15 18:55,18.92,"Malmö, Sweden",16051,55.6,13,Europe/Stockholm,,Twitter,https://twitter.com/jakobborg/status/1482456467336839169
+2022-01-15 19:00,19,"Gda?sk, Poland",16070,54.4,18.6,Europe/Warsaw,,Twitter,https://twitter.com/MeteoprognozaPL/status/1482446121276485641
+2022-01-15 19:08,19.13,"Lublin, Poland",16259,51.3,22.6,Europe/Warsaw,,Twitter,https://twitter.com/MeteoprognozaPL/status/1482446121276485641
+2022-01-15 19:17,19.28,"Kraków, Poland",16463,50.1,19.9,Europe/Warsaw,,Twitter,https://twitter.com/MeteoprognozaPL/status/1482446121276485641
+2022-01-15 19:17,19.28,"Abingdon, UK",16514,51.7,-1.3,Europe/London,,Twitter,https://twitter.com/jochta/status/1482491903102881792
+2022-01-15 19:17,19.28,"Son, The Netherlands",16568,51.5,5.5,,303,Twitter,https://twitter.com/WeerEnMeer/status/1483006751624548357
+2022-01-15 19:17,19.28,"Duisburg, Germany",16572,51.4,6.8,Europe/Berlin,,Twitter,https://twitter.com/Girofox1/status/1482451338319609857
+2022-01-15 19:13,19.22,"Wessex, UK",16597,50.9,-1.4,Europe/London,,Twitter,https://twitter.com/WessexWeather/status/1482448212334202883
+2022-01-15 19:15,19.25,"Solingen, Germany",16600,51.2,7.1,Europe/Berlin,,Twitter,https://twitter.com/msagner/status/1482454753737154561
+2022-01-15 19:27,19.45,"Kecskemét, Hungary",16781,46.9,19.7,Europe/Budapest,,Twitter,https://twitter.com/PeterSztrinko/status/1482649534144688129
+2022-01-15 19:34,19.57,"Heidelberg, Germany",16783,49.4,8.7,Europe/Berlin,271,Weather Underground,https://www.wunderground.com/dashboard/pws/IHEIDELB184/graph/2022-01-15/2022-01-15/daily
+2022-01-15 19:30,19.5,"Karlsruhe, Germany",16830,49,8.4,Europe/Berlin,,Twitter,https://twitter.com/hanna_unterwegs/status/1482475376689483782
+2022-01-15 19:30,19.5,"Paris, France",16858,48.9,2.3,Europe/Paris,,Twitter,https://twitter.com/Fijnweer/status/1482443348099141641
+2022-01-15 19:48,19.8,"Falcade, Italy",17068,46.4,11.8,Europe/Rome,,Twitter,https://twitter.com/cnrisp/status/1484189233866625024
+2022-01-15 19:50,19.83,"Zirje, Slovenia",17089,45.7,13.9,Europe/Ljubljana,,Twitter,https://twitter.com/severeweatherEU/status/1482484580854775811
+2022-01-15 19:56,19.93,"Genoa, Italy",17329,44.4,8.9,Europe/Rome,,Twitter,https://twitter.com/sulsitodisimone/status/1482487159256932355
+2022-01-15 20:14,20.23,"Santa Severa, Italy",17527,42,12,Europe/Rome,,Twitter,https://twitter.com/dussoljean/status/1482641687272951808
+2022-01-15 20:12,20.2,"Serrekunda, Gambia",17626,13.4,-16.7,Africa/Banjul,609,Weather Underground,https://www.wunderground.com/dashboard/pws/IKOLOLI2/graph/2022-01-15/2022-01-15/daily
+2022-01-15 20:30,20.5,"Bay of Palma, Spain",17897,39.5,2.7,Atlantic/Canary,,Balearic Islands Coastal Ocean Observing and Forecasting System,https://www.socib.es/?seccion=observingFacilities&facility=mooring&id=143&tab=table&id_platform=143&id_instrument=295&id_variable=90011
+2022-01-15 20:37,20.62,"Gibraltar, UK",18028,36.1,-5.4,Europe/London,,Twitter,https://twitter.com/MetOGibraltar/status/1482469179718524940
+2022-01-15 20:44,20.73,"Dingli, Malta",18063,35.9,14.4,Europe/Malta,169,Weather Underground,https://www.wunderground.com/dashboard/pws/IMTDINGL2/graph/2022-01-15/2022-01-15/daily
+2022-01-15 20:49,20.82,"Awjilah, Libya",18087,29.1,21.3,Africa/Tripoli,304,Weather Underground,https://www.wunderground.com/dashboard/pws/IALWAH5/graph/2022-01-15/2022-01-15/daily
+2022-01-15 20:59,20.98,"Madina, Ghana",18286,5.7,-0.2,Africa/Accra,,Weather Underground,https://www.wunderground.com/dashboard/pws/IAAAPENK2/graph/2022-01-15/2022-01-15/daily
+2022-01-15 21:09,21.15,"Misrata, Libya",18339,32.4,15.1,Africa/Tripoli,,Weather Underground,https://www.wunderground.com/dashboard/pws/IMISRA6/graph/2022-01-15/2022-01-15/daily
+2022-01-15 21:14,21.23,"Maaten al-Sarra, Libya",18240,21.7,21.8,Africa/Tripoli,576,Weather Underground,https://www.wunderground.com/dashboard/pws/IMATANAS2/graph/2022-01-15/2022-01-15/daily
+2022-01-15 21:39,21.65,"Washiwashu, Nigeria",18933,11,6.4,Africa/Lagos,231,Weather Underground,https://www.wunderground.com/dashboard/pws/IBIRNING2/graph/2022-01-15/2022-01-15/daily
+2022-01-15 22:05,22.08,"Kelle, Niger",19108,14.3,10.1,Africa/Niamey,,Weather Underground,https://www.wunderground.com/
+2022-01-15 22:12,22.2,"Tamanrasset, Algeria",19578,24.4,4.3,Africa/Algiers,724,Twitter,https://twitter.com/ALomaxNet/status/1483101787477450755
