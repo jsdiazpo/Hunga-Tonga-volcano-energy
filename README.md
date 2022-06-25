@@ -2,7 +2,9 @@
 Public repository supporting the scientific publication *Energetic output of the 2022 Hunga Tonga-Hunga Ha'apai volcanic eruption from pressure measurements*, J.S. Diaz and S.E. Rigby, under review (2022).
 
 ## Abstract
-The violent eruption of the volcano at Hunga Tonga-Hunga Ha'apai island on 15 January 2022 generated an intense pressure wave registered by instruments all over the world.	Using public reports posted on social media we have used the arrival time of the first passage of the wave to measure its velocity, found to be a constant $1114\pm2$ km/h ($309\pm1$ m/s).	An empirical pressure--distance relation that utilises measurements from a large range of sources is used to estimate an energetic output. The yield estimate of the Hunga Tonga-Hunga Ha'apai volcanic eruption is 61 Mt, which is considerably larger than the 1980 eruption of Mount St. Helens and is slightly higher than the yield of Tsar Bomba; the largest human-made explosion in history.
+The violent eruption of the volcano at Hunga Tonga-Hunga Ha'apai island on 15 January 2022 generated an intense pressure wave registered by instruments all over the world.
+Using public reports posted on social media we have used the arrival time of the first passage of the wave to measure its velocity, found to be a constant 1114&#177;2 km/h (309&#177;1 m/s).
+An empirical pressure-distance relation that utilises measurements from a large range of sources is used to estimate an energetic output. The yield estimate of the Hunga Tonga-Hunga Ha'apai volcanic eruption is 61 Mt, which is considerably larger than the 1980 eruption of Mount St. Helens and is slightly higher than the yield of Tsar Bomba; the largest human-made explosion in history.
 
 ## Data
 
