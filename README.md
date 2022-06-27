@@ -10,25 +10,29 @@ An empirical pressure-distance relation that utilises measurements from a large 
 
 This repository contains three datasets used in the analysis presented in the paper. Below the complete description of these data sets.
 
- 1. Hunga Tonga-Hunga Ha'apai data  
-   1.1 Lamb wave arrival date and time (UTC)  
-   1.2 Lamb wave arrival date and time (hours since 15 Jan 2022 00:00UTC)  
-   1.3 location (city, country)  
-   1.4 distance from Hunga Tonga-Hunga Ha'apai island (km)  
-   1.5 barometer latitude  
-   1.6 barometer longitude  
-   1.7 time zone
-   1.8 pressure amplitude (Pa)  
-   1.9 source name  
-   1.10 source URL  
- 2. Tsar Bomba data  
-  2.1 location (city, country)  
-  2.2 distance from ground zero (km)  
-  2.3 source  
- 3. Mount St. Helens data  
+ 1. Pressure data at Gisborne, New Zealand on Jan 15, 2022
+   1.1 Local time  
+   1.2 Pressure (hPa) 
+
+ 2. Hunga Tonga-Hunga Ha'apai data  
+   2.1 Lamb wave arrival date and time (UTC)  
+   2.2 Lamb wave arrival date and time (hours since 15 Jan 2022 00:00UTC)  
+   2.3 location (city, country)  
+   2.4 distance from Hunga Tonga-Hunga Ha'apai island (km)  
+   2.5 barometer latitude  
+   2.6 barometer longitude  
+   2.7 time zone
+   2.8 pressure amplitude (Pa)  
+   2.9 source name  
+   2.10 source URL  
+ 3. Tsar Bomba data  
   3.1 location (city, country)  
   3.2 distance from ground zero (km)  
   3.3 source  
+ 4. Mount St. Helens data  
+  4.1 location (city, country)  
+  4.2 distance from ground zero (km)  
+  4.3 source  
 
 
 
