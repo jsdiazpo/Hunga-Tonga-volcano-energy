@@ -10,7 +10,7 @@ An empirical pressure-distance relation that utilises measurements from a large 
 
 This repository contains three datasets used in the analysis presented in the paper. Below the complete description of these data sets.
 
- 1. Pressure data at Gisborne, New Zealand on Jan 15, 2022
+ 1. Pressure data at Gisborne, New Zealand on Jan 15, 2022    
    1.1 Local time  
    1.2 Pressure (hPa) 
 
