@@ -1,0 +1,35 @@
+Location,Distance (km),A (Pa),Source
+"Stockholm, Sweden",2225,160,"Araskog, Ericsson, Wagner 1962"
+"Stockholm, Sweden",2280,176.00,"Donn, Shaw, Hubbard 1963"
+"Aberdeen, UK",3030,100,"Jones, 1967"
+"Northern Territory, Alaska",4000,400,"Wexler & Hass, 1962"
+"Bettles, AK",4250,619,"Wexler & Hass, 1962"
+"Kyoto, Japan",6110,167.20,"Donn, Shaw, Hubbard 1963"
+"Rolla, ND",6230,50.00,"Wexler & Hass, 1964"
+"Lamont, NY",6660,72.00,"Donn, Shaw, Hubbard 1963"
+"Tappan, NY",6660,27.50,"Donn, Shaw, Hubbard 1963"
+"Washington, DC",6960,64.40,"Wexler & Hass, 1962"
+"Washington, DC",6976,64.4,"Pierce & Posey, 1971"
+"Louisville, KY",7190,200.00,"Wexler & Hass, 1963"
+"Mercury, NV",7730,124.50,Reed 1987
+"New Orleans, LA",8180,169.00,"Wexler & Hass, 1965"
+Southern Zimbabwe,10700,125,"Wexler & Hass, 1962"
+"Funafuti, Ellice Islands",11932,120,Farkas 1962
+"Laucala Bay, Fiji",12947,100,Farkas 1962
+"Kaitaia, New Zealand",14603,100,Farkas 1962
+"Auckland, New Zealand",14830,140,Farkas 1962
+"New Plymouth, New Zealand",15041,120,Farkas 1962
+"Gisborne, New Zealand",15117,120,Farkas 1962
+"Ohakea, New Zealand",15120,100,Farkas 1962
+"Farewell Spit, New Zealand",15152,120,Farkas 1962
+"Nelson, New Zealand",15249,120,Farkas 1962
+"Paraparaumu, New Zealand",15262,120,Farkas 1962
+"Wellington, New Zealand",15295,120,Farkas 1962
+"Hokitika, New Zealand",15327,120,Farkas 1962
+"Haast, New Zealand",15386,140,Farkas 1962
+"Christchurch, New Zealand",15461,100,Farkas 1962
+"Invercargill, New Zealand",15624,80,Farkas 1962
+"Taieri, New Zealand",15645,120,Farkas 1962
+Antarctica,18230,30.00,"Wexler & Hass, 1965"
+"Chatham Id., New Zealand",18524,80,Farkas 1962
+"Akron, OH",33266,30.00,"Wexler & Hass, 1962"
