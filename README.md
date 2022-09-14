@@ -1,5 +1,5 @@
 # Hunga Tonga-Hunga Ha'apai volcano energy
-Public repository supporting the scientific publication *Energetic output of the 2022 Hunga Tonga-Hunga Ha'apai volcanic eruption from pressure measurements*, J.S. Diaz and S.E. Rigby, Shock Waves, in press (2022).
+Public repository supporting the scientific publication [*Energetic output of the 2022 Hunga Tonga-Hunga Ha'apai volcanic eruption from pressure measurements*, J.S. Diaz and S.E. Rigby, Shock Waves, 32, pages 553–561 (2022)](https://link.springer.com/article/10.1007/s00193-022-01092-4).
 
 ## Abstract
 The violent eruption of the volcano at Hunga Tonga-Hunga Ha'apai island on 15 January 2022 generated an intense pressure wave registered by instruments all over the world.
